@@ -1,3 +1,3 @@
-# langflow-learnings
+# lang-learnings
 
 Learning repository for Langflow.
